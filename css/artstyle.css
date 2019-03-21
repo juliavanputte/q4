@@ -1,0 +1,139 @@
+body, html {
+    background-color: #f6f6f6;
+}
+#painting {
+    background-color: #D8F1F7;
+    width: 400px;
+    height: 400px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 10px 10px 0px #8d8d8d;
+}
+#row1	{
+	height: 90px;
+}
+#one	{
+	height: 90px;
+	width: 150px;
+}
+#divider0	{
+	height: 90px;
+	width: 10px;
+}
+#divider3	{
+	height: 100px;
+	width: 10px;
+}
+#two 	{
+	height: 90px;
+	width: 240px;
+}
+#toprow {
+    height: 190px;
+}
+#bigbox {
+    width: 290px;
+    height: 190px;
+}
+.red	{
+	background-color: #51ABFF;
+}
+.blue {
+    background-color: #54D8BC; 
+}
+.yellow {
+    background-color: #250097;   
+}
+.black {
+    background-color: black;   
+}
+.right{
+	float: right;
+}
+#divider1 {
+    height: 190px;
+    width: 10px;
+}
+.mediumbox {
+    width: 100px;
+    height: 140px;
+}
+.mediumbox2 {
+    width: 100px;
+    height: 40px;
+}
+
+#divider2 {
+    height: 10px;
+    width: 100px;
+}
+#middlerow	{
+	height: 10px;
+	width: 400px;
+}
+#row4	{
+	height: 100px;
+}
+#four	{
+	height: 100px;
+	width: 50px;
+}
+#five		{
+	height: 100px;
+	width: 100px;
+}
+#six		{
+	height: 100px;
+	width: 200px;
+}
+#seven		{
+	height: 100px;
+	width: 20px;
+}
+a 	{
+	font-size: 25px;
+	text-align: center;
+	border: 5px  #F1978E solid;
+	padding: 5px;
+	margin: 20px auto;
+	text-align: center;
+	background-color:#50555D         ;
+	display: inline;
+	color: #C0D5FA;
+	width: 20%;
+}
+nav	{
+	width: 80%;
+	margin: 20px auto;
+	background-color: #0A0261;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	border: solid 10px #A3ADBA  ;
+	text-align: center;
+}
+
+h4	{
+	font-size: 30px;
+	color: #F1978E      ;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	text-decoration: underline;
+}
+a:link {
+  color: #E1BAFF       ;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+a:visited {
+  color: #BAD9FF      ;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+a:hover {
+  color: #BAFFBB        ;
+  text-decoration: bold;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+a:active {
+  color: #FFFF69      ;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
