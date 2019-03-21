@@ -24,14 +24,14 @@ img		{
 	width: 500px;
 }
 body	{
-	background-color: #A0C8FF;
+	background-color: #B7C2D5  ;
 }
 #rectangle	{
 	height: 500px;
 	width: 900px;
-	background-color: #A0C8FF;
+	background-color: #B7C2D5  ;
 	margin: 0 auto;
-	border: 15px solid #A0C8FF;
+	border: 15px solid #B7C2D5  ;
 }
 #image	{
 	width: 400px;
