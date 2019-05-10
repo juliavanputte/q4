@@ -1,0 +1,93 @@
+h6	{
+	text-align: center;
+}
+.wrapper		{
+	width: 90%;
+	background-color: #0B1974;
+	margin: 0 auto;
+}
+.flex-container	{
+	display:flex;
+	flex-direction: row;
+	justify-content: space-around;
+	margin: 20px;
+}
+.flex-container > article	{
+	background-color: #FFA601 ;
+	margin: 10px;
+	padding: 20px;
+	border: 5px solid #68BDFC;
+}
+.right 	{
+	float: right;
+}
+.left 	{
+	float: left;
+}
+img		{
+	border: 5px solid #68BDFC;
+}
+.pic	{
+	margin: 5px;
+	width: 350px;
+}
+.header	{
+	width: 100%;
+}
+.pic2	{
+	margin: 5px;
+	width: 250px;
+}
+.pic3	{
+	margin: 5px;
+	width: 150px;
+}
+body 	{
+	background-color: #68BDFC;
+	color: #0B1974;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+h2		{
+	color: #0B1974;
+	size: 60px;
+	text-align: center;
+	box-shadow: 5px 10px;
+}
+a 	{
+	font-size: 15px;
+	text-align: center;
+	border: 5px  #FFA601 dashed;
+	padding: 5px;
+	margin: 5px auto;
+	text-align: center;
+	background-color:#0B1974         ;
+	display: inline;
+	color: #68BDFC;
+	width: 20%;
+}
+}
+a:link {
+  color: #E1BAFF       ;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+a:visited {
+  color: #BAD9FF      ;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+a:hover {
+  color: #BAFFBB        ;
+  text-decoration: bold;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+a:active {
+  color: #FFFF69      ;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+p 		{
+	font-size: 18px;
+}
+.a1		{
+	font-size: 25px;
+	margin: 20px;
+	border: none;
+}
