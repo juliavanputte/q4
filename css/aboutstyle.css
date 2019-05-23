@@ -104,3 +104,41 @@ body 	{
 .border 	{
 	border-left: 2px solid black;
 }
+@media screen and (max-width: 600px) {
+	.flex-container{
+		flex-direction: column;
+	}
+	img 	{
+		width: 50%;
+	}
+	nav>a	{
+		display: block;
+	}
+	.link	{
+		margin: 0px;
+		padding: 5px;
+	}
+	.c1	{
+		width: 60%;
+		margin: 0 auto;
+	}
+	.h1{
+		font-size: 30px;
+	}
+	.h2{
+		font-size: 20px;
+	}
+	.border {
+		border-top: 2px solid black;
+		border-left: none;
+	}
+	.p 	{
+		font-size: 12px;
+	}
+	.p1 	{
+		font-size: 12px;
+	}
+	.quote 	{
+		font-size: 14px;
+	}
+}
